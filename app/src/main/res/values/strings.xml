@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Todo</string>
+    <string name="app_name">TODO</string>
+    <string name="connecting">Connecting...</string>
+    <string name="login_text">Sign in to your account</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="keep_me_signed_in">Keep me signed in</string>
+    <string name="create_a_password">Create a password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full name</string>
+    <string name="register_for_an_account">Register for an account</string>
+    <string name="create_account">Create account</string>
+    <string name="phone">Phone</string>
 </resources>
